@@ -1,0 +1,8 @@
+Origin: ruyi
+Label: ruyi
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64 riscv64
+Components: main
+Description: Ruyi builds for some weird distros
+

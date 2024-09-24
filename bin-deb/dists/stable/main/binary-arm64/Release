@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: ruyi
+Label: ruyi
+Architecture: arm64
+Description: Ruyi builds for some weird distros
