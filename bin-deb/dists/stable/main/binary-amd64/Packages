@@ -1,4 +1,22 @@
 Package: ruyi-bin
+Version: 0.18.0-1
+Architecture: amd64
+Maintainer: weilinfox <caiweilin@iscas.ac.cn>
+Installed-Size: 173
+Provides: ruyi
+Multi-Arch: foreign
+Homepage: https://github.com/ruyisdk/ruyi
+Priority: optional
+Section: python
+Filename: pool/main/r/ruyi-bin/ruyi-bin_0.18.0-1_amd64.deb
+Size: 73222
+SHA512: 808d3814ef9ebab66102869877dcecc1d7560889fd545ed2ada839f03ef7d721e45905414a3318c26b4316558e18b07614773c788f91d9eb32166b446441f1fc
+SHA256: 2fb8e387cc10ad7dc6727f3f340f9cccc790304cc07d6ee69c12793ae7a04c3f
+SHA1: 8c6625d26d0a5d717abb2175cad453c92bba18c6
+MD5sum: d92697551fa4e0ce87fa776b8cd2a070
+Description: The package manager for RuyiSDK.
+
+Package: ruyi-bin
 Version: 0.17.0-1
 Architecture: amd64
 Maintainer: weilinfox <caiweilin@iscas.ac.cn>
